@@ -1,0 +1,501 @@
+order_id,date,month,quarter,year,category,sub_category,product,region,state,city,customer_segment,sales,quantity,discount,profit,shipping_cost
+ORD0001,2021-08-17,Aug,Q3,2021,Electronics,Electronics > Tablet,Tablet,South,Chennai,Chennai,Consumer,13597.3,2,0.36,662.08,95.95
+ORD0002,2021-03-03,Mar,Q1,2021,Electronics,Electronics > Laptop,Laptop,South,Hyderabad,Hyderabad,Home Office,5655.76,1,0.29,1045.65,95.51
+ORD0003,2023-07-09,Jul,Q3,2023,Sports,Sports > Yoga Mat,Yoga Mat,North,Delhi,Delhi,Home Office,24276.98,7,0.06,7694.2,80.59
+ORD0004,2021-07-09,Jul,Q3,2021,Groceries,Groceries > Rice,Rice,East,Bhubaneswar,Bhubaneswar,Home Office,40448.8,5,0.29,6055.86,195.16
+ORD0005,2023-02-15,Feb,Q1,2023,Electronics,Electronics > Smart Watch,Smart Watch,East,Patna,Patna,Home Office,34891.26,6,0.28,1601.44,61.02
+ORD0006,2022-08-16,Aug,Q3,2022,Electronics,Electronics > Laptop,Laptop,North,Chandigarh,Chandigarh,Corporate,51141.12,8,0.15,7001.02,57.71
+ORD0007,2022-07-01,Jul,Q3,2022,Electronics,Electronics > Smart Watch,Smart Watch,South,Hyderabad,Hyderabad,Home Office,6870.08,4,0.15,2025.5,135.2
+ORD0008,2022-03-26,Mar,Q1,2022,Clothing,Clothing > T-Shirt,T-Shirt,South,Chennai,Chennai,Corporate,19252.59,7,0.08,5895.97,177.75
+ORD0009,2022-10-07,Oct,Q4,2022,Furniture,Furniture > Sofa,Sofa,West,Ahmedabad,Ahmedabad,Corporate,8166.15,3,0.1,1605.22,67.29
+ORD0010,2023-05-28,May,Q2,2023,Sports,Sports > Dumbbells,Dumbbells,East,Kolkata,Kolkata,Consumer,44867.79,9,0.3,9683.89,47.51
+ORD0011,2021-11-24,Nov,Q4,2021,Groceries,Groceries > Spices,Spices,North,Chandigarh,Chandigarh,Corporate,99606.1,10,0.21,26858.34,174.94
+ORD0012,2021-01-24,Jan,Q1,2021,Electronics,Electronics > Smart Watch,Smart Watch,East,Patna,Patna,Corporate,6010.72,2,0.06,288.0,149.98
+ORD0013,2022-06-24,Jun,Q2,2022,Sports,Sports > Football,Football,North,Jaipur,Jaipur,Corporate,55153.8,9,0.06,14451.84,117.09
+ORD0014,2023-12-23,Dec,Q4,2023,Electronics,Electronics > Smart Watch,Smart Watch,East,Bhubaneswar,Bhubaneswar,Consumer,18594.3,2,0.35,3619.84,75.35
+ORD0015,2021-04-29,Apr,Q2,2021,Furniture,Furniture > Wardrobe,Wardrobe,North,Delhi,Delhi,Home Office,65422.48,8,0.39,8373.11,42.64
+ORD0016,2023-09-01,Sep,Q3,2023,Sports,Sports > Football,Football,East,Patna,Patna,Home Office,67523.61,7,0.37,11765.66,144.18
+ORD0017,2022-10-01,Oct,Q4,2022,Groceries,Groceries > Sugar,Sugar,West,Ahmedabad,Ahmedabad,Corporate,5108.04,2,0.03,279.01,119.71
+ORD0018,2022-03-28,Mar,Q1,2022,Electronics,Electronics > Mobile Phone,Mobile Phone,North,Delhi,Delhi,Consumer,8609.53,1,0.03,1013.85,140.42
+ORD0019,2022-03-15,Mar,Q1,2022,Sports,Sports > Football,Football,West,Mumbai,Mumbai,Corporate,13894.09,7,0.04,2391.77,96.24
+ORD0020,2023-08-15,Aug,Q3,2023,Electronics,Electronics > Mobile Phone,Mobile Phone,North,Chandigarh,Chandigarh,Home Office,48150.42,6,0.04,4968.06,116.53
+ORD0021,2021-10-15,Oct,Q4,2021,Groceries,Groceries > Oil,Oil,East,Bhubaneswar,Bhubaneswar,Consumer,8973.1,2,0.34,1273.86,29.11
+ORD0022,2021-01-31,Jan,Q1,2021,Electronics,Electronics > Laptop,Laptop,South,Bangalore,Bangalore,Corporate,17727.04,8,0.16,1006.47,88.22
+ORD0023,2023-03-11,Mar,Q1,2023,Clothing,Clothing > Jacket,Jacket,East,Bhubaneswar,Bhubaneswar,Home Office,59866.74,9,0.19,5187.16,59.19
+ORD0024,2021-04-30,Apr,Q2,2021,Sports,Sports > Cycle,Cycle,North,Jaipur,Jaipur,Corporate,596.36,1,0.19,157.39,115.6
+ORD0025,2021-04-27,Apr,Q2,2021,Sports,Sports > Cricket Bat,Cricket Bat,South,Chennai,Chennai,Home Office,13567.86,2,0.09,1061.4,180.25
+ORD0026,2022-05-20,May,Q2,2022,Sports,Sports > Cycle,Cycle,North,Jaipur,Jaipur,Consumer,46251.38,7,0.23,5160.8,66.94
+ORD0027,2022-10-06,Oct,Q4,2022,Furniture,Furniture > Bookshelf,Bookshelf,West,Mumbai,Mumbai,Home Office,23130.35,5,0.37,4819.3,21.68
+ORD0028,2021-07-24,Jul,Q3,2021,Electronics,Electronics > Smart Watch,Smart Watch,South,Hyderabad,Hyderabad,Corporate,28014.99,3,0.35,5713.87,86.51
+ORD0029,2021-11-20,Nov,Q4,2021,Groceries,Groceries > Spices,Spices,East,Patna,Patna,Home Office,1596.96,9,0.33,149.6,139.41
+ORD0030,2021-10-03,Oct,Q4,2021,Clothing,Clothing > T-Shirt,T-Shirt,North,Jaipur,Jaipur,Home Office,8387.91,3,0.24,1691.13,56.65
+ORD0031,2022-06-25,Jun,Q2,2022,Sports,Sports > Dumbbells,Dumbbells,East,Kolkata,Kolkata,Consumer,58168.04,7,0.02,8554.52,43.55
+ORD0032,2022-06-21,Jun,Q2,2022,Furniture,Furniture > Sofa,Sofa,West,Ahmedabad,Ahmedabad,Consumer,1689.68,2,0.35,352.75,118.21
+ORD0033,2023-01-27,Jan,Q1,2023,Sports,Sports > Cycle,Cycle,South,Bangalore,Bangalore,Consumer,3151.45,1,0.36,582.56,174.93
+ORD0034,2023-01-03,Jan,Q1,2023,Furniture,Furniture > Desk,Desk,North,Chandigarh,Chandigarh,Home Office,68180.07,7,0.3,15641.22,62.61
+ORD0035,2021-11-29,Nov,Q4,2021,Furniture,Furniture > Sofa,Sofa,North,Delhi,Delhi,Home Office,47069.04,6,0.16,9922.93,152.31
+ORD0036,2022-05-24,May,Q2,2022,Clothing,Clothing > Jeans,Jeans,North,Chandigarh,Chandigarh,Consumer,18414.96,8,0.33,2320.67,74.93
+ORD0037,2022-04-12,Apr,Q2,2022,Furniture,Furniture > Chair,Chair,South,Bangalore,Bangalore,Corporate,43281.15,5,0.39,3530.87,135.47
+ORD0038,2023-03-30,Mar,Q1,2023,Sports,Sports > Yoga Mat,Yoga Mat,North,Delhi,Delhi,Corporate,17541.78,3,0.39,657.84,127.38
+ORD0039,2022-12-09,Dec,Q4,2022,Clothing,Clothing > Jacket,Jacket,North,Chandigarh,Chandigarh,Home Office,10486.0,4,0.28,381.33,186.6
+ORD0040,2022-02-08,Feb,Q1,2022,Clothing,Clothing > Jacket,Jacket,North,Jaipur,Jaipur,Corporate,32074.5,10,0.34,5629.44,74.06
+ORD0041,2022-09-26,Sep,Q3,2022,Groceries,Groceries > Sugar,Sugar,West,Ahmedabad,Ahmedabad,Corporate,12240.18,9,0.17,3374.01,141.92
+ORD0042,2021-12-23,Dec,Q4,2021,Sports,Sports > Cycle,Cycle,East,Bhubaneswar,Bhubaneswar,Home Office,3108.06,1,0.08,817.01,129.2
+ORD0043,2022-10-22,Oct,Q4,2022,Groceries,Groceries > Flour,Flour,West,Ahmedabad,Ahmedabad,Consumer,43056.63,9,0.36,7958.45,50.54
+ORD0044,2021-06-23,Jun,Q2,2021,Clothing,Clothing > Shoes,Shoes,East,Kolkata,Kolkata,Consumer,11618.6,5,0.08,612.78,64.07
+ORD0045,2023-09-01,Sep,Q3,2023,Sports,Sports > Cricket Bat,Cricket Bat,West,Pune,Pune,Home Office,20247.1,10,0.28,2890.99,63.92
+ORD0046,2021-01-12,Jan,Q1,2021,Electronics,Electronics > Headphones,Headphones,South,Chennai,Chennai,Home Office,42287.22,9,0.22,10727.76,41.84
+ORD0047,2021-10-01,Oct,Q4,2021,Groceries,Groceries > Spices,Spices,East,Bhubaneswar,Bhubaneswar,Home Office,38918.79,9,0.36,4577.45,48.65
+ORD0048,2023-08-31,Aug,Q3,2023,Groceries,Groceries > Sugar,Sugar,South,Hyderabad,Hyderabad,Corporate,44073.27,9,0.1,7217.69,148.44
+ORD0049,2022-04-26,Apr,Q2,2022,Clothing,Clothing > Dress,Dress,East,Patna,Patna,Consumer,4779.21,3,0.15,389.34,58.51
+ORD0050,2023-04-30,Apr,Q2,2023,Groceries,Groceries > Sugar,Sugar,West,Pune,Pune,Consumer,33379.16,4,0.16,7877.1,190.29
+ORD0051,2021-02-10,Feb,Q1,2021,Sports,Sports > Dumbbells,Dumbbells,West,Mumbai,Mumbai,Corporate,37793.25,5,0.34,8381.76,95.42
+ORD0052,2022-03-28,Mar,Q1,2022,Groceries,Groceries > Oil,Oil,East,Bhubaneswar,Bhubaneswar,Corporate,3949.3,1,0.27,834.46,150.35
+ORD0053,2023-08-16,Aug,Q3,2023,Furniture,Furniture > Wardrobe,Wardrobe,North,Chandigarh,Chandigarh,Home Office,66630.3,10,0.03,11542.12,176.03
+ORD0054,2022-01-08,Jan,Q1,2022,Electronics,Electronics > Tablet,Tablet,West,Pune,Pune,Consumer,26683.6,8,0.3,3058.38,155.36
+ORD0055,2023-05-14,May,Q2,2023,Clothing,Clothing > T-Shirt,T-Shirt,West,Mumbai,Mumbai,Home Office,5540.4,9,0.38,402.82,32.35
+ORD0056,2021-03-24,Mar,Q1,2021,Electronics,Electronics > Laptop,Laptop,South,Chennai,Chennai,Home Office,7384.08,3,0.19,504.31,190.6
+ORD0057,2023-08-11,Aug,Q3,2023,Clothing,Clothing > Dress,Dress,South,Hyderabad,Hyderabad,Home Office,15598.72,2,0.07,2079.0,124.16
+ORD0058,2022-10-01,Oct,Q4,2022,Sports,Sports > Dumbbells,Dumbbells,West,Ahmedabad,Ahmedabad,Consumer,11922.36,2,0.33,981.36,145.49
+ORD0059,2022-09-10,Sep,Q3,2022,Sports,Sports > Cricket Bat,Cricket Bat,North,Chandigarh,Chandigarh,Home Office,46538.8,7,0.03,11026.67,22.28
+ORD0060,2023-05-11,May,Q2,2023,Groceries,Groceries > Rice,Rice,West,Pune,Pune,Home Office,56813.2,8,0.17,12738.37,193.79
+ORD0061,2022-07-08,Jul,Q3,2022,Sports,Sports > Cycle,Cycle,West,Pune,Pune,Corporate,27568.5,10,0.34,5444.36,35.6
+ORD0062,2023-07-13,Jul,Q3,2023,Furniture,Furniture > Sofa,Sofa,West,Pune,Pune,Consumer,68188.64,8,0.07,7206.27,163.61
+ORD0063,2022-11-29,Nov,Q4,2022,Clothing,Clothing > Shoes,Shoes,East,Patna,Patna,Consumer,85363.83,9,0.03,22027.43,107.94
+ORD0064,2022-05-08,May,Q2,2022,Groceries,Groceries > Flour,Flour,West,Mumbai,Mumbai,Consumer,11467.9,5,0.28,1171.34,124.68
+ORD0065,2023-08-28,Aug,Q3,2023,Sports,Sports > Cycle,Cycle,East,Bhubaneswar,Bhubaneswar,Home Office,30370.5,9,0.28,2870.56,65.25
+ORD0066,2021-09-05,Sep,Q3,2021,Furniture,Furniture > Bookshelf,Bookshelf,North,Jaipur,Jaipur,Home Office,5988.18,3,0.3,557.29,126.13
+ORD0067,2023-12-11,Dec,Q4,2023,Sports,Sports > Yoga Mat,Yoga Mat,North,Delhi,Delhi,Corporate,14689.44,4,0.12,3392.04,42.78
+ORD0068,2021-04-04,Apr,Q2,2021,Electronics,Electronics > Smart Watch,Smart Watch,East,Patna,Patna,Consumer,8924.16,8,0.0,1207.45,106.17
+ORD0069,2022-11-29,Nov,Q4,2022,Furniture,Furniture > Chair,Chair,East,Bhubaneswar,Bhubaneswar,Consumer,8133.2,2,0.03,1884.21,29.65
+ORD0070,2021-11-02,Nov,Q4,2021,Sports,Sports > Yoga Mat,Yoga Mat,North,Delhi,Delhi,Consumer,69005.07,9,0.24,15063.04,60.62
+ORD0071,2023-12-07,Dec,Q4,2023,Groceries,Groceries > Flour,Flour,West,Pune,Pune,Home Office,21860.72,7,0.25,3818.35,153.22
+ORD0072,2022-03-02,Mar,Q1,2022,Furniture,Furniture > Bookshelf,Bookshelf,North,Delhi,Delhi,Consumer,16692.51,3,0.06,2707.56,144.09
+ORD0073,2023-08-21,Aug,Q3,2023,Clothing,Clothing > T-Shirt,T-Shirt,South,Bangalore,Bangalore,Home Office,35294.35,5,0.18,7415.23,186.3
+ORD0074,2022-02-10,Feb,Q1,2022,Groceries,Groceries > Rice,Rice,South,Hyderabad,Hyderabad,Consumer,41414.1,5,0.03,4008.2,75.37
+ORD0075,2022-08-15,Aug,Q3,2022,Groceries,Groceries > Rice,Rice,West,Ahmedabad,Ahmedabad,Corporate,66020.85,7,0.2,10465.02,34.48
+ORD0076,2021-03-23,Mar,Q1,2021,Groceries,Groceries > Sugar,Sugar,East,Kolkata,Kolkata,Consumer,38487.84,4,0.33,5739.12,191.14
+ORD0077,2022-07-06,Jul,Q3,2022,Sports,Sports > Cricket Bat,Cricket Bat,South,Bangalore,Bangalore,Home Office,73345.6,8,0.07,15388.42,134.26
+ORD0078,2023-10-05,Oct,Q4,2023,Electronics,Electronics > Headphones,Headphones,East,Bhubaneswar,Bhubaneswar,Corporate,40401.9,6,0.34,3971.55,144.86
+ORD0079,2022-08-14,Aug,Q3,2022,Groceries,Groceries > Spices,Spices,North,Chandigarh,Chandigarh,Consumer,15591.0,6,0.05,4173.34,175.68
+ORD0080,2021-01-03,Jan,Q1,2021,Sports,Sports > Dumbbells,Dumbbells,West,Mumbai,Mumbai,Consumer,33131.25,9,0.3,5510.91,156.8
+ORD0081,2022-02-21,Feb,Q1,2022,Clothing,Clothing > Shoes,Shoes,South,Bangalore,Bangalore,Corporate,10416.0,8,0.39,1478.28,63.07
+ORD0082,2021-11-21,Nov,Q4,2021,Clothing,Clothing > Shoes,Shoes,North,Jaipur,Jaipur,Corporate,4648.62,2,0.34,257.84,190.47
+ORD0083,2021-11-12,Nov,Q4,2021,Groceries,Groceries > Sugar,Sugar,East,Bhubaneswar,Bhubaneswar,Corporate,20101.52,8,0.22,2588.25,185.94
+ORD0084,2023-11-07,Nov,Q4,2023,Furniture,Furniture > Chair,Chair,East,Bhubaneswar,Bhubaneswar,Corporate,24702.66,9,0.0,6615.75,170.75
+ORD0085,2023-09-30,Sep,Q3,2023,Furniture,Furniture > Sofa,Sofa,West,Pune,Pune,Corporate,68865.12,9,0.15,19308.22,176.53
+ORD0086,2022-05-05,May,Q2,2022,Sports,Sports > Dumbbells,Dumbbells,South,Bangalore,Bangalore,Consumer,44831.04,6,0.28,9471.2,89.49
+ORD0087,2021-11-08,Nov,Q4,2021,Groceries,Groceries > Rice,Rice,South,Hyderabad,Hyderabad,Home Office,52254.96,6,0.35,6184.88,114.67
+ORD0088,2023-07-25,Jul,Q3,2023,Electronics,Electronics > Laptop,Laptop,West,Ahmedabad,Ahmedabad,Consumer,9494.98,2,0.39,877.87,144.69
+ORD0089,2021-06-14,Jun,Q2,2021,Clothing,Clothing > Shoes,Shoes,West,Pune,Pune,Home Office,69885.76,8,0.01,4879.49,133.61
+ORD0090,2022-08-12,Aug,Q3,2022,Furniture,Furniture > Chair,Chair,West,Mumbai,Mumbai,Home Office,8983.94,2,0.28,2076.54,28.28
+ORD0091,2021-04-25,Apr,Q2,2021,Clothing,Clothing > Dress,Dress,East,Bhubaneswar,Bhubaneswar,Consumer,21432.08,4,0.23,4748.75,50.6
+ORD0092,2021-06-11,Jun,Q2,2021,Sports,Sports > Dumbbells,Dumbbells,South,Bangalore,Bangalore,Home Office,7195.29,3,0.26,1000.32,140.03
+ORD0093,2023-08-11,Aug,Q3,2023,Clothing,Clothing > Shoes,Shoes,South,Chennai,Chennai,Corporate,59260.56,6,0.12,17658.21,144.26
+ORD0094,2023-07-25,Jul,Q3,2023,Clothing,Clothing > Jeans,Jeans,West,Pune,Pune,Consumer,15500.52,4,0.14,1849.76,145.87
+ORD0095,2021-02-14,Feb,Q1,2021,Groceries,Groceries > Sugar,Sugar,North,Jaipur,Jaipur,Home Office,9114.2,1,0.3,1913.04,182.53
+ORD0096,2022-04-17,Apr,Q2,2022,Sports,Sports > Yoga Mat,Yoga Mat,South,Hyderabad,Hyderabad,Consumer,25809.5,10,0.3,5063.02,142.55
+ORD0097,2021-10-08,Oct,Q4,2021,Electronics,Electronics > Mobile Phone,Mobile Phone,East,Bhubaneswar,Bhubaneswar,Consumer,37117.6,10,0.05,11385.6,78.81
+ORD0098,2023-05-01,May,Q2,2023,Furniture,Furniture > Desk,Desk,South,Hyderabad,Hyderabad,Corporate,45605.43,9,0.11,4033.04,184.53
+ORD0099,2023-09-14,Sep,Q3,2023,Clothing,Clothing > Dress,Dress,North,Chandigarh,Chandigarh,Consumer,22696.05,3,0.09,5223.19,141.39
+ORD0100,2023-03-25,Mar,Q1,2023,Sports,Sports > Yoga Mat,Yoga Mat,North,Chandigarh,Chandigarh,Consumer,27057.65,5,0.18,5587.83,141.02
+ORD0101,2023-02-20,Feb,Q1,2023,Clothing,Clothing > T-Shirt,T-Shirt,South,Bangalore,Bangalore,Consumer,88530.4,10,0.22,22413.23,59.85
+ORD0102,2021-05-10,May,Q2,2021,Groceries,Groceries > Sugar,Sugar,West,Mumbai,Mumbai,Consumer,9467.04,1,0.12,1647.77,37.49
+ORD0103,2021-10-05,Oct,Q4,2021,Groceries,Groceries > Flour,Flour,East,Patna,Patna,Home Office,38240.46,9,0.3,2579.31,94.68
+ORD0104,2021-07-22,Jul,Q3,2021,Groceries,Groceries > Spices,Spices,West,Pune,Pune,Consumer,13504.5,6,0.18,1338.08,85.28
+ORD0105,2023-01-23,Jan,Q1,2023,Sports,Sports > Yoga Mat,Yoga Mat,North,Chandigarh,Chandigarh,Corporate,38737.12,4,0.38,7139.23,36.5
+ORD0106,2022-03-11,Mar,Q1,2022,Sports,Sports > Cricket Bat,Cricket Bat,North,Chandigarh,Chandigarh,Consumer,23670.9,3,0.08,6510.2,119.76
+ORD0107,2022-03-19,Mar,Q1,2022,Furniture,Furniture > Bookshelf,Bookshelf,South,Hyderabad,Hyderabad,Consumer,42986.8,5,0.06,3596.18,65.12
+ORD0108,2021-12-24,Dec,Q4,2021,Electronics,Electronics > Mobile Phone,Mobile Phone,South,Chennai,Chennai,Corporate,23716.24,4,0.01,3043.13,42.82
+ORD0109,2023-05-13,May,Q2,2023,Sports,Sports > Cricket Bat,Cricket Bat,North,Chandigarh,Chandigarh,Corporate,31083.24,6,0.04,6002.35,190.17
+ORD0110,2021-03-30,Mar,Q1,2021,Sports,Sports > Yoga Mat,Yoga Mat,West,Ahmedabad,Ahmedabad,Consumer,9985.01,1,0.34,1172.26,39.43
+ORD0111,2023-06-28,Jun,Q2,2023,Electronics,Electronics > Mobile Phone,Mobile Phone,East,Patna,Patna,Consumer,2698.34,2,0.25,456.58,148.19
+ORD0112,2023-02-20,Feb,Q1,2023,Sports,Sports > Cycle,Cycle,East,Bhubaneswar,Bhubaneswar,Home Office,43585.4,10,0.32,2499.21,137.85
+ORD0113,2022-03-17,Mar,Q1,2022,Groceries,Groceries > Flour,Flour,South,Bangalore,Bangalore,Corporate,32376.24,8,0.29,3304.73,76.25
+ORD0114,2022-06-07,Jun,Q2,2022,Clothing,Clothing > Jeans,Jeans,West,Mumbai,Mumbai,Consumer,2045.76,2,0.04,533.48,166.12
+ORD0115,2021-05-03,May,Q2,2021,Sports,Sports > Cycle,Cycle,East,Patna,Patna,Consumer,25201.89,7,0.27,5060.85,176.26
+ORD0116,2021-04-16,Apr,Q2,2021,Clothing,Clothing > Shoes,Shoes,East,Bhubaneswar,Bhubaneswar,Consumer,51228.8,10,0.06,9373.71,172.51
+ORD0117,2022-12-19,Dec,Q4,2022,Sports,Sports > Yoga Mat,Yoga Mat,North,Chandigarh,Chandigarh,Home Office,32362.72,4,0.34,7312.69,167.32
+ORD0118,2021-02-23,Feb,Q1,2021,Sports,Sports > Yoga Mat,Yoga Mat,North,Delhi,Delhi,Corporate,46111.5,5,0.14,4140.93,45.79
+ORD0119,2023-04-01,Apr,Q2,2023,Electronics,Electronics > Laptop,Laptop,North,Delhi,Delhi,Home Office,20066.4,9,0.17,2536.05,86.61
+ORD0120,2022-10-27,Oct,Q4,2022,Sports,Sports > Cycle,Cycle,North,Delhi,Delhi,Consumer,22704.48,3,0.02,1657.09,99.76
+ORD0121,2023-05-19,May,Q2,2023,Groceries,Groceries > Spices,Spices,West,Pune,Pune,Corporate,30292.72,4,0.05,5150.53,70.98
+ORD0122,2023-09-24,Sep,Q3,2023,Sports,Sports > Yoga Mat,Yoga Mat,North,Delhi,Delhi,Corporate,6422.9,10,0.08,1971.25,158.12
+ORD0123,2022-06-08,Jun,Q2,2022,Clothing,Clothing > Dress,Dress,North,Delhi,Delhi,Corporate,12874.4,7,0.15,2857.3,110.05
+ORD0124,2022-12-27,Dec,Q4,2022,Electronics,Electronics > Headphones,Headphones,North,Chandigarh,Chandigarh,Consumer,73748.72,8,0.34,10841.08,123.21
+ORD0125,2023-05-06,May,Q2,2023,Clothing,Clothing > T-Shirt,T-Shirt,West,Mumbai,Mumbai,Corporate,24096.87,3,0.25,5414.71,185.56
+ORD0126,2021-06-30,Jun,Q2,2021,Groceries,Groceries > Rice,Rice,South,Bangalore,Bangalore,Home Office,37006.97,7,0.16,4447.84,81.11
+ORD0127,2022-11-14,Nov,Q4,2022,Furniture,Furniture > Chair,Chair,North,Jaipur,Jaipur,Home Office,36270.92,4,0.14,8366.39,167.41
+ORD0128,2021-10-30,Oct,Q4,2021,Furniture,Furniture > Chair,Chair,South,Bangalore,Bangalore,Consumer,18189.45,3,0.3,3140.53,51.89
+ORD0129,2023-10-09,Oct,Q4,2023,Groceries,Groceries > Spices,Spices,West,Ahmedabad,Ahmedabad,Home Office,32994.4,10,0.39,2915.17,99.16
+ORD0130,2023-08-19,Aug,Q3,2023,Groceries,Groceries > Sugar,Sugar,East,Patna,Patna,Consumer,30732.78,6,0.12,5018.82,30.24
+ORD0131,2022-08-11,Aug,Q3,2022,Electronics,Electronics > Mobile Phone,Mobile Phone,West,Pune,Pune,Home Office,85913.46,9,0.3,3747.1,183.63
+ORD0132,2022-01-21,Jan,Q1,2022,Clothing,Clothing > Shoes,Shoes,West,Ahmedabad,Ahmedabad,Consumer,4559.73,1,0.32,933.95,196.83
+ORD0133,2021-06-22,Jun,Q2,2021,Sports,Sports > Football,Football,North,Delhi,Delhi,Home Office,79278.16,8,0.21,14589.07,85.5
+ORD0134,2022-08-03,Aug,Q3,2022,Groceries,Groceries > Flour,Flour,East,Patna,Patna,Home Office,7912.56,1,0.26,408.54,37.01
+ORD0135,2023-03-03,Mar,Q1,2023,Clothing,Clothing > Dress,Dress,South,Bangalore,Bangalore,Consumer,66691.0,10,0.37,6011.11,138.09
+ORD0136,2023-03-14,Mar,Q1,2023,Furniture,Furniture > Wardrobe,Wardrobe,North,Chandigarh,Chandigarh,Home Office,45289.58,7,0.13,3480.69,146.51
+ORD0137,2023-12-15,Dec,Q4,2023,Electronics,Electronics > Headphones,Headphones,East,Kolkata,Kolkata,Corporate,9422.1,5,0.09,2866.33,107.53
+ORD0138,2022-04-09,Apr,Q2,2022,Furniture,Furniture > Desk,Desk,North,Chandigarh,Chandigarh,Consumer,69578.01,9,0.33,14689.32,26.79
+ORD0139,2022-11-21,Nov,Q4,2022,Sports,Sports > Football,Football,West,Mumbai,Mumbai,Consumer,24988.44,3,0.31,5046.97,49.8
+ORD0140,2023-06-16,Jun,Q2,2023,Electronics,Electronics > Headphones,Headphones,East,Patna,Patna,Home Office,38791.84,4,0.24,8128.64,161.08
+ORD0141,2022-04-25,Apr,Q2,2022,Sports,Sports > Football,Football,East,Bhubaneswar,Bhubaneswar,Consumer,40887.36,6,0.23,5735.6,158.5
+ORD0142,2023-02-22,Feb,Q1,2023,Sports,Sports > Cycle,Cycle,West,Mumbai,Mumbai,Consumer,14700.1,10,0.1,3206.36,177.34
+ORD0143,2021-07-30,Jul,Q3,2021,Sports,Sports > Cricket Bat,Cricket Bat,East,Kolkata,Kolkata,Consumer,22739.05,5,0.21,5376.83,36.51
+ORD0144,2022-03-31,Mar,Q1,2022,Groceries,Groceries > Sugar,Sugar,North,Chandigarh,Chandigarh,Consumer,35485.59,7,0.09,11249.12,87.48
+ORD0145,2021-02-27,Feb,Q1,2021,Clothing,Clothing > T-Shirt,T-Shirt,East,Kolkata,Kolkata,Consumer,2939.82,1,0.33,509.8,44.98
+ORD0146,2023-08-19,Aug,Q3,2023,Groceries,Groceries > Spices,Spices,North,Delhi,Delhi,Consumer,11173.85,5,0.06,3487.85,129.6
+ORD0147,2023-05-17,May,Q2,2023,Electronics,Electronics > Tablet,Tablet,South,Bangalore,Bangalore,Consumer,2460.31,1,0.26,431.2,31.31
+ORD0148,2023-10-21,Oct,Q4,2023,Sports,Sports > Cycle,Cycle,North,Jaipur,Jaipur,Home Office,24949.5,10,0.06,4192.65,130.67
+ORD0149,2022-05-08,May,Q2,2022,Sports,Sports > Dumbbells,Dumbbells,South,Hyderabad,Hyderabad,Home Office,10563.94,2,0.14,3052.75,117.93
+ORD0150,2023-11-06,Nov,Q4,2023,Sports,Sports > Cricket Bat,Cricket Bat,West,Pune,Pune,Consumer,68679.17,7,0.1,3391.75,161.93
+ORD0151,2022-12-08,Dec,Q4,2022,Furniture,Furniture > Chair,Chair,East,Kolkata,Kolkata,Consumer,33029.94,6,0.33,2268.92,160.25
+ORD0152,2023-08-10,Aug,Q3,2023,Groceries,Groceries > Oil,Oil,South,Chennai,Chennai,Home Office,3728.8,8,0.08,985.69,179.44
+ORD0153,2022-10-09,Oct,Q4,2022,Clothing,Clothing > Shoes,Shoes,West,Ahmedabad,Ahmedabad,Corporate,2312.55,5,0.26,232.45,175.18
+ORD0154,2021-04-08,Apr,Q2,2021,Clothing,Clothing > Dress,Dress,North,Chandigarh,Chandigarh,Corporate,52206.0,7,0.36,5546.15,195.27
+ORD0155,2023-10-14,Oct,Q4,2023,Groceries,Groceries > Sugar,Sugar,East,Kolkata,Kolkata,Home Office,6169.1,7,0.24,1391.09,118.19
+ORD0156,2022-10-20,Oct,Q4,2022,Electronics,Electronics > Mobile Phone,Mobile Phone,East,Patna,Patna,Corporate,22570.6,5,0.29,1602.41,99.9
+ORD0157,2023-07-05,Jul,Q3,2023,Electronics,Electronics > Tablet,Tablet,West,Pune,Pune,Home Office,842.83,1,0.26,99.16,164.2
+ORD0158,2021-11-24,Nov,Q4,2021,Electronics,Electronics > Laptop,Laptop,West,Mumbai,Mumbai,Consumer,4872.24,2,0.26,571.99,190.9
+ORD0159,2021-03-08,Mar,Q1,2021,Sports,Sports > Football,Football,West,Pune,Pune,Corporate,61230.16,8,0.23,9846.13,91.65
+ORD0160,2022-07-25,Jul,Q3,2022,Furniture,Furniture > Chair,Chair,North,Jaipur,Jaipur,Consumer,41801.28,8,0.37,2247.1,159.49
+ORD0161,2023-07-03,Jul,Q3,2023,Furniture,Furniture > Wardrobe,Wardrobe,East,Patna,Patna,Corporate,5255.96,4,0.34,643.88,181.76
+ORD0162,2023-07-01,Jul,Q3,2023,Electronics,Electronics > Tablet,Tablet,East,Patna,Patna,Consumer,49202.55,9,0.36,9617.2,148.13
+ORD0163,2021-12-23,Dec,Q4,2021,Clothing,Clothing > Shoes,Shoes,South,Chennai,Chennai,Consumer,7330.35,3,0.2,928.13,123.01
+ORD0164,2023-08-16,Aug,Q3,2023,Sports,Sports > Football,Football,North,Delhi,Delhi,Corporate,69964.93,7,0.29,10317.95,158.45
+ORD0165,2021-06-01,Jun,Q2,2021,Furniture,Furniture > Bookshelf,Bookshelf,North,Chandigarh,Chandigarh,Corporate,31593.15,9,0.35,5833.72,135.16
+ORD0166,2022-01-08,Jan,Q1,2022,Furniture,Furniture > Sofa,Sofa,North,Delhi,Delhi,Home Office,9331.59,3,0.06,2898.36,60.58
+ORD0167,2023-11-29,Nov,Q4,2023,Clothing,Clothing > T-Shirt,T-Shirt,East,Kolkata,Kolkata,Home Office,25351.11,9,0.25,4455.37,36.82
+ORD0168,2021-12-12,Dec,Q4,2021,Sports,Sports > Cycle,Cycle,South,Chennai,Chennai,Home Office,72335.4,10,0.24,16644.15,121.45
+ORD0169,2021-02-28,Feb,Q1,2021,Electronics,Electronics > Mobile Phone,Mobile Phone,East,Patna,Patna,Consumer,42237.9,10,0.26,6232.81,132.89
+ORD0170,2022-08-17,Aug,Q3,2022,Clothing,Clothing > Jacket,Jacket,South,Hyderabad,Hyderabad,Corporate,22948.15,5,0.28,1609.71,94.81
+ORD0171,2023-08-10,Aug,Q3,2023,Furniture,Furniture > Bookshelf,Bookshelf,South,Bangalore,Bangalore,Home Office,44207.04,6,0.34,9996.28,43.54
+ORD0172,2023-01-29,Jan,Q1,2023,Sports,Sports > Cycle,Cycle,North,Chandigarh,Chandigarh,Consumer,10502.72,8,0.18,794.59,29.11
+ORD0173,2023-02-26,Feb,Q1,2023,Sports,Sports > Dumbbells,Dumbbells,South,Chennai,Chennai,Corporate,72384.5,10,0.08,6513.05,199.27
+ORD0174,2023-08-15,Aug,Q3,2023,Groceries,Groceries > Sugar,Sugar,West,Mumbai,Mumbai,Consumer,35723.73,7,0.39,2496.07,83.52
+ORD0175,2021-04-14,Apr,Q2,2021,Clothing,Clothing > Jacket,Jacket,West,Pune,Pune,Home Office,8486.16,1,0.17,2216.85,150.95
+ORD0176,2023-04-06,Apr,Q2,2023,Clothing,Clothing > T-Shirt,T-Shirt,West,Mumbai,Mumbai,Home Office,18242.01,9,0.22,1025.32,110.77
+ORD0177,2022-07-27,Jul,Q3,2022,Sports,Sports > Cycle,Cycle,North,Delhi,Delhi,Consumer,26560.03,7,0.39,3521.41,85.81
+ORD0178,2021-10-23,Oct,Q4,2021,Furniture,Furniture > Wardrobe,Wardrobe,West,Ahmedabad,Ahmedabad,Consumer,485.21,1,0.29,100.31,113.48
+ORD0179,2021-11-02,Nov,Q4,2021,Sports,Sports > Cycle,Cycle,South,Bangalore,Bangalore,Home Office,10251.66,6,0.4,1671.81,73.86
+ORD0180,2022-11-20,Nov,Q4,2022,Sports,Sports > Cycle,Cycle,West,Ahmedabad,Ahmedabad,Home Office,24004.8,5,0.01,3549.79,39.73
+ORD0181,2023-05-04,May,Q2,2023,Sports,Sports > Yoga Mat,Yoga Mat,North,Jaipur,Jaipur,Corporate,48365.15,5,0.31,9439.21,123.97
+ORD0182,2021-04-16,Apr,Q2,2021,Sports,Sports > Dumbbells,Dumbbells,South,Hyderabad,Hyderabad,Home Office,77678.3,10,0.15,19576.77,63.6
+ORD0183,2021-08-14,Aug,Q3,2021,Furniture,Furniture > Chair,Chair,West,Pune,Pune,Corporate,12563.67,3,0.08,2318.02,130.07
+ORD0184,2023-08-24,Aug,Q3,2023,Electronics,Electronics > Laptop,Laptop,South,Hyderabad,Hyderabad,Corporate,42413.6,8,0.13,3762.11,184.18
+ORD0185,2022-12-03,Dec,Q4,2022,Sports,Sports > Yoga Mat,Yoga Mat,East,Patna,Patna,Corporate,38306.72,4,0.11,4757.67,189.47
+ORD0186,2022-09-02,Sep,Q3,2022,Clothing,Clothing > Jeans,Jeans,West,Pune,Pune,Corporate,33889.62,6,0.37,5689.88,71.8
+ORD0187,2023-02-17,Feb,Q1,2023,Groceries,Groceries > Sugar,Sugar,South,Bangalore,Bangalore,Consumer,47783.25,5,0.03,15165.77,138.07
+ORD0188,2023-09-09,Sep,Q3,2023,Furniture,Furniture > Desk,Desk,East,Patna,Patna,Home Office,7294.3,5,0.25,1236.65,63.64
+ORD0189,2023-12-24,Dec,Q4,2023,Furniture,Furniture > Desk,Desk,North,Delhi,Delhi,Corporate,43206.78,6,0.04,11664.99,20.93
+ORD0190,2021-11-20,Nov,Q4,2021,Groceries,Groceries > Flour,Flour,West,Ahmedabad,Ahmedabad,Consumer,16396.2,5,0.26,3911.51,36.1
+ORD0191,2022-04-21,Apr,Q2,2022,Sports,Sports > Cricket Bat,Cricket Bat,South,Bangalore,Bangalore,Consumer,9971.0,1,0.16,1663.53,188.59
+ORD0192,2022-08-16,Aug,Q3,2022,Electronics,Electronics > Mobile Phone,Mobile Phone,East,Patna,Patna,Home Office,18581.54,2,0.13,3011.79,135.44
+ORD0193,2023-12-10,Dec,Q4,2023,Groceries,Groceries > Oil,Oil,West,Pune,Pune,Consumer,6746.88,2,0.29,1171.16,149.35
+ORD0194,2021-01-29,Jan,Q1,2021,Clothing,Clothing > Dress,Dress,South,Chennai,Chennai,Home Office,58004.59,7,0.21,3483.57,140.47
+ORD0195,2022-01-14,Jan,Q1,2022,Furniture,Furniture > Sofa,Sofa,East,Kolkata,Kolkata,Consumer,19485.0,5,0.18,2078.67,79.33
+ORD0196,2021-01-24,Jan,Q1,2021,Clothing,Clothing > Dress,Dress,South,Chennai,Chennai,Home Office,9413.9,2,0.06,2263.79,186.16
+ORD0197,2022-09-29,Sep,Q3,2022,Electronics,Electronics > Tablet,Tablet,East,Patna,Patna,Consumer,38307.64,4,0.19,5786.75,197.99
+ORD0198,2023-02-05,Feb,Q1,2023,Groceries,Groceries > Spices,Spices,West,Ahmedabad,Ahmedabad,Home Office,30566.6,4,0.27,5104.11,161.73
+ORD0199,2023-12-13,Dec,Q4,2023,Groceries,Groceries > Spices,Spices,East,Kolkata,Kolkata,Home Office,1422.68,2,0.22,223.76,123.09
+ORD0200,2021-11-03,Nov,Q4,2021,Furniture,Furniture > Bookshelf,Bookshelf,West,Mumbai,Mumbai,Home Office,28787.08,4,0.2,7361.82,100.19
+ORD0201,2021-04-24,Apr,Q2,2021,Groceries,Groceries > Oil,Oil,West,Pune,Pune,Home Office,5631.53,1,0.27,585.62,23.92
+ORD0202,2022-06-06,Jun,Q2,2022,Electronics,Electronics > Laptop,Laptop,North,Delhi,Delhi,Corporate,42198.66,6,0.22,2240.74,180.96
+ORD0203,2023-08-25,Aug,Q3,2023,Electronics,Electronics > Tablet,Tablet,West,Mumbai,Mumbai,Consumer,26647.53,7,0.36,3147.58,185.08
+ORD0204,2023-02-13,Feb,Q1,2023,Groceries,Groceries > Rice,Rice,South,Hyderabad,Hyderabad,Corporate,3733.42,2,0.21,615.4,151.01
+ORD0205,2022-04-02,Apr,Q2,2022,Electronics,Electronics > Mobile Phone,Mobile Phone,East,Bhubaneswar,Bhubaneswar,Home Office,38685.96,9,0.15,3909.77,102.91
+ORD0206,2021-11-14,Nov,Q4,2021,Clothing,Clothing > Jeans,Jeans,North,Delhi,Delhi,Home Office,43309.84,7,0.37,8641.56,63.32
+ORD0207,2021-05-18,May,Q2,2021,Electronics,Electronics > Smart Watch,Smart Watch,North,Chandigarh,Chandigarh,Home Office,2522.62,1,0.02,449.17,117.16
+ORD0208,2021-04-26,Apr,Q2,2021,Furniture,Furniture > Wardrobe,Wardrobe,East,Kolkata,Kolkata,Home Office,32568.3,10,0.24,6231.53,77.72
+ORD0209,2022-09-11,Sep,Q3,2022,Furniture,Furniture > Wardrobe,Wardrobe,South,Bangalore,Bangalore,Corporate,3517.1,5,0.38,684.52,184.08
+ORD0210,2023-05-25,May,Q2,2023,Sports,Sports > Dumbbells,Dumbbells,North,Chandigarh,Chandigarh,Home Office,55150.76,7,0.13,8391.78,46.86
+ORD0211,2023-02-10,Feb,Q1,2023,Furniture,Furniture > Wardrobe,Wardrobe,West,Mumbai,Mumbai,Consumer,42944.0,5,0.06,7625.7,30.37
+ORD0212,2023-04-26,Apr,Q2,2023,Groceries,Groceries > Spices,Spices,South,Bangalore,Bangalore,Consumer,10564.15,5,0.26,2553.72,172.48
+ORD0213,2021-07-09,Jul,Q3,2021,Sports,Sports > Football,Football,North,Chandigarh,Chandigarh,Corporate,60683.3,10,0.35,4198.79,157.11
+ORD0214,2022-03-21,Mar,Q1,2022,Groceries,Groceries > Oil,Oil,East,Bhubaneswar,Bhubaneswar,Consumer,37507.76,4,0.38,1981.19,199.92
+ORD0215,2023-09-08,Sep,Q3,2023,Furniture,Furniture > Wardrobe,Wardrobe,South,Bangalore,Bangalore,Consumer,29553.03,9,0.11,4994.13,136.77
+ORD0216,2022-09-24,Sep,Q3,2022,Clothing,Clothing > Dress,Dress,West,Pune,Pune,Consumer,61114.96,8,0.13,5898.59,76.33
+ORD0217,2021-04-04,Apr,Q2,2021,Sports,Sports > Football,Football,South,Chennai,Chennai,Corporate,84178.53,9,0.23,11360.78,47.43
+ORD0218,2022-11-07,Nov,Q4,2022,Furniture,Furniture > Sofa,Sofa,South,Bangalore,Bangalore,Home Office,15883.68,6,0.33,3617.8,135.51
+ORD0219,2023-10-02,Oct,Q4,2023,Groceries,Groceries > Oil,Oil,East,Kolkata,Kolkata,Consumer,44404.56,9,0.37,5948.61,135.53
+ORD0220,2021-05-01,May,Q2,2021,Sports,Sports > Cricket Bat,Cricket Bat,North,Jaipur,Jaipur,Consumer,4182.27,1,0.34,329.66,147.29
+ORD0221,2021-01-19,Jan,Q1,2021,Furniture,Furniture > Wardrobe,Wardrobe,West,Pune,Pune,Consumer,64128.8,10,0.37,13082.92,138.67
+ORD0222,2021-02-02,Feb,Q1,2021,Electronics,Electronics > Smart Watch,Smart Watch,West,Mumbai,Mumbai,Consumer,65240.91,9,0.21,7009.82,110.4
+ORD0223,2023-06-01,Jun,Q2,2023,Furniture,Furniture > Chair,Chair,North,Jaipur,Jaipur,Consumer,7999.76,4,0.21,1861.59,68.12
+ORD0224,2023-03-24,Mar,Q1,2023,Electronics,Electronics > Tablet,Tablet,West,Pune,Pune,Home Office,39609.28,4,0.09,9198.99,172.62
+ORD0225,2021-03-06,Mar,Q1,2021,Electronics,Electronics > Headphones,Headphones,West,Pune,Pune,Home Office,5243.84,8,0.0,531.8,109.97
+ORD0226,2023-06-08,Jun,Q2,2023,Clothing,Clothing > Shoes,Shoes,North,Jaipur,Jaipur,Consumer,8771.28,4,0.35,1803.14,105.59
+ORD0227,2021-04-06,Apr,Q2,2021,Electronics,Electronics > Tablet,Tablet,North,Delhi,Delhi,Corporate,9617.58,1,0.23,2041.53,148.29
+ORD0228,2023-03-27,Mar,Q1,2023,Electronics,Electronics > Tablet,Tablet,South,Hyderabad,Hyderabad,Consumer,83622.1,10,0.16,22404.41,79.71
+ORD0229,2021-10-14,Oct,Q4,2021,Electronics,Electronics > Smart Watch,Smart Watch,East,Kolkata,Kolkata,Consumer,16785.93,7,0.03,3770.19,130.5
+ORD0230,2023-03-24,Mar,Q1,2023,Clothing,Clothing > T-Shirt,T-Shirt,East,Bhubaneswar,Bhubaneswar,Corporate,14488.72,4,0.38,1612.94,142.35
+ORD0231,2023-02-18,Feb,Q1,2023,Electronics,Electronics > Smart Watch,Smart Watch,East,Kolkata,Kolkata,Home Office,1824.18,2,0.06,451.84,134.1
+ORD0232,2023-03-09,Mar,Q1,2023,Clothing,Clothing > Dress,Dress,North,Delhi,Delhi,Consumer,22512.2,5,0.3,1271.23,35.71
+ORD0233,2023-06-02,Jun,Q2,2023,Groceries,Groceries > Spices,Spices,West,Mumbai,Mumbai,Consumer,7206.8,2,0.04,1587.2,78.4
+ORD0234,2023-02-28,Feb,Q1,2023,Electronics,Electronics > Tablet,Tablet,West,Pune,Pune,Consumer,81545.85,9,0.39,11022.45,50.52
+ORD0235,2023-02-19,Feb,Q1,2023,Furniture,Furniture > Desk,Desk,East,Bhubaneswar,Bhubaneswar,Corporate,12356.88,8,0.07,1525.99,73.96
+ORD0236,2021-06-07,Jun,Q2,2021,Clothing,Clothing > Dress,Dress,South,Hyderabad,Hyderabad,Home Office,47824.72,8,0.08,3611.93,74.84
+ORD0237,2023-03-22,Mar,Q1,2023,Clothing,Clothing > Shoes,Shoes,West,Pune,Pune,Corporate,26176.02,6,0.33,4302.25,126.99
+ORD0238,2022-09-08,Sep,Q3,2022,Clothing,Clothing > Shoes,Shoes,South,Bangalore,Bangalore,Corporate,28944.96,3,0.39,2426.6,145.09
+ORD0239,2023-10-03,Oct,Q4,2023,Sports,Sports > Football,Football,East,Bhubaneswar,Bhubaneswar,Corporate,25993.03,7,0.37,1800.33,199.51
+ORD0240,2022-01-04,Jan,Q1,2022,Sports,Sports > Cricket Bat,Cricket Bat,West,Ahmedabad,Ahmedabad,Consumer,63970.32,8,0.33,3032.25,172.6
+ORD0241,2023-04-18,Apr,Q2,2023,Groceries,Groceries > Oil,Oil,East,Kolkata,Kolkata,Corporate,21540.39,3,0.32,1057.39,198.33
+ORD0242,2023-09-09,Sep,Q3,2023,Sports,Sports > Dumbbells,Dumbbells,West,Ahmedabad,Ahmedabad,Consumer,42272.88,6,0.32,6558.18,184.59
+ORD0243,2021-08-12,Aug,Q3,2021,Furniture,Furniture > Bookshelf,Bookshelf,South,Hyderabad,Hyderabad,Home Office,5675.32,1,0.26,1024.83,194.03
+ORD0244,2022-11-11,Nov,Q4,2022,Groceries,Groceries > Rice,Rice,North,Delhi,Delhi,Corporate,20620.72,4,0.21,3651.58,123.54
+ORD0245,2023-07-02,Jul,Q3,2023,Clothing,Clothing > Jacket,Jacket,West,Ahmedabad,Ahmedabad,Home Office,14329.98,9,0.4,1675.16,73.18
+ORD0246,2021-06-25,Jun,Q2,2021,Electronics,Electronics > Laptop,Laptop,East,Bhubaneswar,Bhubaneswar,Corporate,62907.92,8,0.21,7677.73,37.57
+ORD0247,2023-07-16,Jul,Q3,2023,Clothing,Clothing > T-Shirt,T-Shirt,East,Kolkata,Kolkata,Home Office,647.14,2,0.14,46.09,164.01
+ORD0248,2022-05-15,May,Q2,2022,Sports,Sports > Football,Football,South,Bangalore,Bangalore,Home Office,67114.74,7,0.09,10475.13,53.2
+ORD0249,2023-06-05,Jun,Q2,2023,Groceries,Groceries > Rice,Rice,South,Bangalore,Bangalore,Home Office,27643.63,7,0.28,2223.91,155.42
+ORD0250,2021-05-09,May,Q2,2021,Sports,Sports > Cricket Bat,Cricket Bat,South,Bangalore,Bangalore,Corporate,18517.16,4,0.1,5146.14,114.99
+ORD0251,2022-10-04,Oct,Q4,2022,Sports,Sports > Dumbbells,Dumbbells,West,Ahmedabad,Ahmedabad,Consumer,21505.8,6,0.18,1794.48,141.25
+ORD0252,2022-09-02,Sep,Q3,2022,Sports,Sports > Cycle,Cycle,North,Jaipur,Jaipur,Consumer,7600.26,6,0.12,701.68,144.82
+ORD0253,2023-11-13,Nov,Q4,2023,Groceries,Groceries > Flour,Flour,South,Hyderabad,Hyderabad,Corporate,13571.46,7,0.25,2626.38,136.15
+ORD0254,2021-12-21,Dec,Q4,2021,Sports,Sports > Football,Football,West,Pune,Pune,Consumer,9642.09,3,0.18,522.49,84.63
+ORD0255,2021-01-20,Jan,Q1,2021,Groceries,Groceries > Oil,Oil,South,Bangalore,Bangalore,Home Office,59082.66,9,0.16,9802.69,147.83
+ORD0256,2023-06-29,Jun,Q2,2023,Groceries,Groceries > Oil,Oil,North,Jaipur,Jaipur,Consumer,11965.6,4,0.11,2250.03,50.28
+ORD0257,2023-07-26,Jul,Q3,2023,Sports,Sports > Dumbbells,Dumbbells,North,Jaipur,Jaipur,Consumer,38864.2,5,0.33,4167.77,168.07
+ORD0258,2021-03-27,Mar,Q1,2021,Groceries,Groceries > Spices,Spices,South,Bangalore,Bangalore,Consumer,12188.08,4,0.4,1352.29,82.74
+ORD0259,2021-06-28,Jun,Q2,2021,Groceries,Groceries > Rice,Rice,South,Chennai,Chennai,Home Office,69217.3,10,0.34,10647.82,97.07
+ORD0260,2021-10-13,Oct,Q4,2021,Furniture,Furniture > Desk,Desk,North,Jaipur,Jaipur,Corporate,25942.14,9,0.22,2976.47,146.73
+ORD0261,2022-08-16,Aug,Q3,2022,Sports,Sports > Yoga Mat,Yoga Mat,North,Delhi,Delhi,Corporate,9924.62,1,0.35,568.12,175.89
+ORD0262,2022-05-27,May,Q2,2022,Furniture,Furniture > Bookshelf,Bookshelf,South,Hyderabad,Hyderabad,Corporate,12058.88,8,0.25,2155.62,87.53
+ORD0263,2021-06-04,Jun,Q2,2021,Electronics,Electronics > Headphones,Headphones,East,Patna,Patna,Corporate,76052.56,8,0.13,3357.38,159.34
+ORD0264,2021-07-10,Jul,Q3,2021,Groceries,Groceries > Sugar,Sugar,North,Jaipur,Jaipur,Corporate,38734.0,4,0.33,5149.21,78.12
+ORD0265,2022-08-04,Aug,Q3,2022,Clothing,Clothing > Shoes,Shoes,South,Hyderabad,Hyderabad,Corporate,53707.44,6,0.3,2397.93,132.71
+ORD0266,2023-07-31,Jul,Q3,2023,Electronics,Electronics > Mobile Phone,Mobile Phone,South,Bangalore,Bangalore,Corporate,9918.21,1,0.17,2870.61,183.69
+ORD0267,2022-09-11,Sep,Q3,2022,Furniture,Furniture > Bookshelf,Bookshelf,North,Jaipur,Jaipur,Corporate,4579.4,5,0.27,817.93,29.32
+ORD0268,2022-09-18,Sep,Q3,2022,Furniture,Furniture > Sofa,Sofa,North,Jaipur,Jaipur,Consumer,2212.66,1,0.03,489.57,113.5
+ORD0269,2023-07-01,Jul,Q3,2023,Electronics,Electronics > Mobile Phone,Mobile Phone,East,Kolkata,Kolkata,Corporate,14486.25,3,0.09,1012.41,165.07
+ORD0270,2021-07-31,Jul,Q3,2021,Clothing,Clothing > Dress,Dress,East,Kolkata,Kolkata,Corporate,19352.88,3,0.27,996.33,121.39
+ORD0271,2021-12-03,Dec,Q4,2021,Groceries,Groceries > Sugar,Sugar,South,Hyderabad,Hyderabad,Home Office,27618.09,3,0.25,3784.68,59.1
+ORD0272,2021-07-25,Jul,Q3,2021,Furniture,Furniture > Chair,Chair,West,Pune,Pune,Corporate,47585.22,6,0.1,10423.43,64.67
+ORD0273,2022-08-07,Aug,Q3,2022,Electronics,Electronics > Tablet,Tablet,South,Hyderabad,Hyderabad,Home Office,17706.69,9,0.16,3626.95,161.08
+ORD0274,2022-05-06,May,Q2,2022,Groceries,Groceries > Flour,Flour,North,Delhi,Delhi,Corporate,8029.5,10,0.36,275.55,85.0
+ORD0275,2022-10-11,Oct,Q4,2022,Furniture,Furniture > Sofa,Sofa,West,Pune,Pune,Home Office,22950.66,3,0.38,4000.03,23.0
+ORD0276,2021-05-19,May,Q2,2021,Electronics,Electronics > Tablet,Tablet,South,Chennai,Chennai,Consumer,35804.58,7,0.25,5379.14,94.78
+ORD0277,2023-04-04,Apr,Q2,2023,Electronics,Electronics > Smart Watch,Smart Watch,South,Bangalore,Bangalore,Consumer,4411.15,5,0.37,951.24,47.97
+ORD0278,2022-11-01,Nov,Q4,2022,Groceries,Groceries > Spices,Spices,North,Chandigarh,Chandigarh,Home Office,51281.02,7,0.34,2280.23,35.52
+ORD0279,2023-06-09,Jun,Q2,2023,Electronics,Electronics > Headphones,Headphones,North,Chandigarh,Chandigarh,Home Office,3847.11,3,0.28,721.43,49.49
+ORD0280,2022-12-12,Dec,Q4,2022,Sports,Sports > Cycle,Cycle,East,Kolkata,Kolkata,Corporate,22566.12,3,0.35,3958.6,41.25
+ORD0281,2021-03-02,Mar,Q1,2021,Clothing,Clothing > Jacket,Jacket,East,Patna,Patna,Consumer,35756.45,5,0.23,2013.2,101.94
+ORD0282,2023-01-08,Jan,Q1,2023,Electronics,Electronics > Headphones,Headphones,South,Bangalore,Bangalore,Consumer,38775.9,5,0.36,6259.64,40.76
+ORD0283,2023-11-09,Nov,Q4,2023,Electronics,Electronics > Mobile Phone,Mobile Phone,North,Delhi,Delhi,Consumer,29624.0,8,0.37,1935.15,192.86
+ORD0284,2021-03-14,Mar,Q1,2021,Sports,Sports > Dumbbells,Dumbbells,South,Bangalore,Bangalore,Consumer,64162.35,7,0.13,16623.52,122.88
+ORD0285,2021-09-02,Sep,Q3,2021,Sports,Sports > Cricket Bat,Cricket Bat,South,Chennai,Chennai,Home Office,9544.43,1,0.03,1754.67,70.82
+ORD0286,2022-09-29,Sep,Q3,2022,Clothing,Clothing > T-Shirt,T-Shirt,West,Mumbai,Mumbai,Corporate,11946.0,4,0.31,2240.98,63.67
+ORD0287,2023-01-25,Jan,Q1,2023,Sports,Sports > Dumbbells,Dumbbells,South,Hyderabad,Hyderabad,Home Office,6361.84,4,0.37,229.15,117.48
+ORD0288,2021-01-20,Jan,Q1,2021,Clothing,Clothing > T-Shirt,T-Shirt,West,Ahmedabad,Ahmedabad,Home Office,5644.95,5,0.21,541.61,108.57
+ORD0289,2021-05-03,May,Q2,2021,Furniture,Furniture > Bookshelf,Bookshelf,North,Delhi,Delhi,Consumer,37699.65,9,0.36,4524.86,154.62
+ORD0290,2021-07-15,Jul,Q3,2021,Sports,Sports > Football,Football,West,Mumbai,Mumbai,Home Office,7165.4,10,0.26,473.04,72.5
+ORD0291,2022-10-08,Oct,Q4,2022,Groceries,Groceries > Sugar,Sugar,East,Bhubaneswar,Bhubaneswar,Corporate,3357.32,4,0.08,877.14,125.25
+ORD0292,2021-11-15,Nov,Q4,2021,Electronics,Electronics > Laptop,Laptop,West,Pune,Pune,Corporate,9066.19,7,0.14,2191.72,101.35
+ORD0293,2023-08-07,Aug,Q3,2023,Clothing,Clothing > T-Shirt,T-Shirt,North,Delhi,Delhi,Home Office,41402.0,5,0.28,1851.13,170.47
+ORD0294,2022-11-03,Nov,Q4,2022,Furniture,Furniture > Chair,Chair,South,Bangalore,Bangalore,Corporate,5261.04,9,0.12,1370.52,51.3
+ORD0295,2023-04-09,Apr,Q2,2023,Groceries,Groceries > Spices,Spices,South,Chennai,Chennai,Corporate,16115.54,2,0.06,811.77,169.47
+ORD0296,2022-04-01,Apr,Q2,2022,Furniture,Furniture > Desk,Desk,West,Pune,Pune,Home Office,11728.84,2,0.1,3101.59,23.92
+ORD0297,2021-05-13,May,Q2,2021,Furniture,Furniture > Sofa,Sofa,South,Chennai,Chennai,Corporate,1045.3,2,0.18,86.05,123.3
+ORD0298,2023-03-20,Mar,Q1,2023,Groceries,Groceries > Rice,Rice,West,Ahmedabad,Ahmedabad,Corporate,10811.04,3,0.36,916.74,100.28
+ORD0299,2021-11-01,Nov,Q4,2021,Electronics,Electronics > Smart Watch,Smart Watch,South,Hyderabad,Hyderabad,Corporate,33426.48,8,0.22,1780.6,70.36
+ORD0300,2021-10-09,Oct,Q4,2021,Groceries,Groceries > Oil,Oil,South,Hyderabad,Hyderabad,Home Office,9894.11,1,0.31,1076.84,118.01
+ORD0301,2023-09-20,Sep,Q3,2023,Clothing,Clothing > Shoes,Shoes,East,Bhubaneswar,Bhubaneswar,Corporate,1074.0,3,0.24,47.99,165.92
+ORD0302,2022-07-30,Jul,Q3,2022,Electronics,Electronics > Headphones,Headphones,East,Patna,Patna,Consumer,3273.69,3,0.26,314.83,166.93
+ORD0303,2021-04-25,Apr,Q2,2021,Furniture,Furniture > Wardrobe,Wardrobe,West,Pune,Pune,Consumer,7324.86,3,0.13,1729.73,84.58
+ORD0304,2021-02-27,Feb,Q1,2021,Clothing,Clothing > Shoes,Shoes,South,Hyderabad,Hyderabad,Consumer,43731.92,8,0.07,2496.74,30.11
+ORD0305,2022-03-25,Mar,Q1,2022,Electronics,Electronics > Smart Watch,Smart Watch,West,Mumbai,Mumbai,Corporate,20943.0,10,0.05,5274.02,185.38
+ORD0306,2022-10-25,Oct,Q4,2022,Electronics,Electronics > Mobile Phone,Mobile Phone,South,Hyderabad,Hyderabad,Home Office,23296.35,3,0.34,4738.77,192.9
+ORD0307,2023-02-05,Feb,Q1,2023,Groceries,Groceries > Spices,Spices,North,Chandigarh,Chandigarh,Corporate,8704.44,6,0.06,2737.82,162.53
+ORD0308,2023-09-25,Sep,Q3,2023,Clothing,Clothing > Jeans,Jeans,East,Kolkata,Kolkata,Home Office,81622.8,10,0.15,18746.2,73.01
+ORD0309,2021-12-30,Dec,Q4,2021,Electronics,Electronics > Smart Watch,Smart Watch,West,Ahmedabad,Ahmedabad,Consumer,18189.15,3,0.37,3899.09,59.76
+ORD0310,2021-08-02,Aug,Q3,2021,Groceries,Groceries > Oil,Oil,East,Patna,Patna,Consumer,14132.28,4,0.13,2961.35,193.35
+ORD0311,2022-11-19,Nov,Q4,2022,Groceries,Groceries > Rice,Rice,East,Kolkata,Kolkata,Consumer,7138.82,2,0.31,1310.87,28.67
+ORD0312,2023-06-17,Jun,Q2,2023,Groceries,Groceries > Oil,Oil,West,Pune,Pune,Corporate,33030.54,6,0.04,6146.75,175.53
+ORD0313,2022-04-07,Apr,Q2,2022,Furniture,Furniture > Sofa,Sofa,North,Delhi,Delhi,Corporate,3254.98,1,0.38,145.83,50.62
+ORD0314,2023-02-08,Feb,Q1,2023,Furniture,Furniture > Chair,Chair,North,Chandigarh,Chandigarh,Home Office,89420.5,10,0.28,11550.07,137.65
+ORD0315,2023-06-09,Jun,Q2,2023,Furniture,Furniture > Chair,Chair,North,Chandigarh,Chandigarh,Consumer,16605.84,4,0.22,4244.19,117.22
+ORD0316,2022-07-31,Jul,Q3,2022,Clothing,Clothing > Jeans,Jeans,North,Delhi,Delhi,Corporate,55411.1,10,0.2,2941.29,20.69
+ORD0317,2021-06-29,Jun,Q2,2021,Clothing,Clothing > Shoes,Shoes,West,Mumbai,Mumbai,Consumer,2148.63,1,0.26,545.55,105.24
+ORD0318,2021-08-25,Aug,Q3,2021,Clothing,Clothing > Jacket,Jacket,West,Pune,Pune,Home Office,5010.8,5,0.22,412.2,179.39
+ORD0319,2023-01-27,Jan,Q1,2023,Furniture,Furniture > Sofa,Sofa,North,Chandigarh,Chandigarh,Corporate,21659.2,8,0.33,3182.03,47.2
+ORD0320,2021-07-18,Jul,Q3,2021,Electronics,Electronics > Tablet,Tablet,West,Ahmedabad,Ahmedabad,Consumer,6333.12,9,0.15,1113.1,193.81
+ORD0321,2023-08-31,Aug,Q3,2023,Sports,Sports > Football,Football,West,Pune,Pune,Consumer,63256.13,7,0.29,9010.68,182.08
+ORD0322,2021-10-29,Oct,Q4,2021,Electronics,Electronics > Headphones,Headphones,South,Chennai,Chennai,Consumer,5396.48,4,0.17,1551.93,98.37
+ORD0323,2021-10-30,Oct,Q4,2021,Sports,Sports > Yoga Mat,Yoga Mat,East,Patna,Patna,Consumer,7883.58,2,0.16,979.01,69.72
+ORD0324,2023-07-28,Jul,Q3,2023,Electronics,Electronics > Smart Watch,Smart Watch,West,Mumbai,Mumbai,Corporate,4701.09,3,0.24,991.51,189.14
+ORD0325,2021-08-05,Aug,Q3,2021,Sports,Sports > Cricket Bat,Cricket Bat,East,Patna,Patna,Corporate,19002.83,7,0.26,3116.26,105.15
+ORD0326,2021-12-19,Dec,Q4,2021,Clothing,Clothing > Jacket,Jacket,South,Hyderabad,Hyderabad,Home Office,3387.37,7,0.36,323.99,62.76
+ORD0327,2023-09-01,Sep,Q3,2023,Clothing,Clothing > Dress,Dress,North,Chandigarh,Chandigarh,Corporate,14375.75,5,0.2,2976.99,37.68
+ORD0328,2022-04-12,Apr,Q2,2022,Furniture,Furniture > Bookshelf,Bookshelf,West,Pune,Pune,Corporate,42620.83,7,0.04,7467.78,184.42
+ORD0329,2023-04-14,Apr,Q2,2023,Groceries,Groceries > Spices,Spices,East,Kolkata,Kolkata,Home Office,2248.62,3,0.28,276.88,160.49
+ORD0330,2023-12-10,Dec,Q4,2023,Sports,Sports > Cricket Bat,Cricket Bat,South,Chennai,Chennai,Consumer,2569.7,1,0.18,685.69,146.83
+ORD0331,2022-07-16,Jul,Q3,2022,Clothing,Clothing > Jacket,Jacket,West,Ahmedabad,Ahmedabad,Consumer,2494.95,1,0.2,366.92,192.89
+ORD0332,2023-08-30,Aug,Q3,2023,Sports,Sports > Cycle,Cycle,East,Bhubaneswar,Bhubaneswar,Consumer,37569.85,5,0.28,3665.88,89.58
+ORD0333,2021-11-30,Nov,Q4,2021,Sports,Sports > Football,Football,South,Hyderabad,Hyderabad,Consumer,11054.64,4,0.16,520.16,160.45
+ORD0334,2021-01-19,Jan,Q1,2021,Groceries,Groceries > Oil,Oil,South,Hyderabad,Hyderabad,Consumer,10393.64,4,0.32,1001.05,194.06
+ORD0335,2022-07-18,Jul,Q3,2022,Groceries,Groceries > Flour,Flour,East,Bhubaneswar,Bhubaneswar,Corporate,18879.36,4,0.27,4097.28,91.49
+ORD0336,2021-07-29,Jul,Q3,2021,Electronics,Electronics > Smart Watch,Smart Watch,East,Patna,Patna,Home Office,61289.9,10,0.12,4445.94,31.49
+ORD0337,2022-07-21,Jul,Q3,2022,Clothing,Clothing > Dress,Dress,East,Patna,Patna,Home Office,9822.9,5,0.21,947.43,30.22
+ORD0338,2023-04-08,Apr,Q2,2023,Clothing,Clothing > Jeans,Jeans,North,Jaipur,Jaipur,Corporate,13340.3,5,0.17,1843.37,26.36
+ORD0339,2022-01-24,Jan,Q1,2022,Clothing,Clothing > Jeans,Jeans,West,Ahmedabad,Ahmedabad,Corporate,27644.67,9,0.07,6357.57,120.48
+ORD0340,2022-08-25,Aug,Q3,2022,Electronics,Electronics > Headphones,Headphones,South,Hyderabad,Hyderabad,Corporate,68869.17,9,0.07,16262.75,80.41
+ORD0341,2021-07-02,Jul,Q3,2021,Furniture,Furniture > Bookshelf,Bookshelf,South,Hyderabad,Hyderabad,Corporate,55309.17,7,0.13,6167.3,72.93
+ORD0342,2021-08-30,Aug,Q3,2021,Groceries,Groceries > Rice,Rice,North,Chandigarh,Chandigarh,Consumer,11574.54,9,0.27,1765.52,94.36
+ORD0343,2021-11-05,Nov,Q4,2021,Furniture,Furniture > Desk,Desk,East,Bhubaneswar,Bhubaneswar,Home Office,12142.24,8,0.34,834.3,34.55
+ORD0344,2022-11-13,Nov,Q4,2022,Furniture,Furniture > Bookshelf,Bookshelf,North,Delhi,Delhi,Corporate,10863.4,5,0.31,1670.68,48.52
+ORD0345,2021-06-30,Jun,Q2,2021,Furniture,Furniture > Wardrobe,Wardrobe,West,Ahmedabad,Ahmedabad,Corporate,30428.44,7,0.19,1266.88,116.08
+ORD0346,2023-02-04,Feb,Q1,2023,Electronics,Electronics > Tablet,Tablet,South,Chennai,Chennai,Home Office,6303.57,1,0.1,1464.01,81.98
+ORD0347,2021-09-22,Sep,Q3,2021,Electronics,Electronics > Headphones,Headphones,East,Kolkata,Kolkata,Consumer,3051.9,1,0.12,720.7,127.35
+ORD0348,2022-11-23,Nov,Q4,2022,Groceries,Groceries > Oil,Oil,East,Bhubaneswar,Bhubaneswar,Corporate,6928.72,4,0.36,1301.95,23.44
+ORD0349,2022-04-05,Apr,Q2,2022,Furniture,Furniture > Desk,Desk,North,Jaipur,Jaipur,Home Office,3957.54,3,0.28,819.6,87.53
+ORD0350,2022-06-08,Jun,Q2,2022,Sports,Sports > Cycle,Cycle,North,Jaipur,Jaipur,Consumer,13139.34,2,0.01,3342.07,95.02
+ORD0351,2023-02-18,Feb,Q1,2023,Electronics,Electronics > Smart Watch,Smart Watch,East,Bhubaneswar,Bhubaneswar,Home Office,6402.57,3,0.27,246.74,95.76
+ORD0352,2021-07-26,Jul,Q3,2021,Sports,Sports > Yoga Mat,Yoga Mat,South,Bangalore,Bangalore,Consumer,64935.63,9,0.05,5194.43,39.13
+ORD0353,2022-02-11,Feb,Q1,2022,Sports,Sports > Football,Football,East,Patna,Patna,Consumer,42379.92,6,0.12,2305.6,109.34
+ORD0354,2022-03-02,Mar,Q1,2022,Groceries,Groceries > Sugar,Sugar,South,Chennai,Chennai,Consumer,18154.42,2,0.33,3049.46,46.85
+ORD0355,2021-07-04,Jul,Q3,2021,Sports,Sports > Cricket Bat,Cricket Bat,North,Chandigarh,Chandigarh,Home Office,18485.52,4,0.39,1457.3,29.01
+ORD0356,2021-12-24,Dec,Q4,2021,Electronics,Electronics > Tablet,Tablet,East,Patna,Patna,Corporate,51875.67,7,0.04,13817.75,28.26
+ORD0357,2021-10-11,Oct,Q4,2021,Furniture,Furniture > Bookshelf,Bookshelf,East,Bhubaneswar,Bhubaneswar,Home Office,43980.15,5,0.04,12433.62,52.92
+ORD0358,2023-04-01,Apr,Q2,2023,Groceries,Groceries > Flour,Flour,East,Bhubaneswar,Bhubaneswar,Home Office,64145.6,8,0.26,13721.64,40.35
+ORD0359,2021-05-01,May,Q2,2021,Furniture,Furniture > Chair,Chair,West,Ahmedabad,Ahmedabad,Corporate,68154.1,10,0.07,10390.12,84.55
+ORD0360,2021-03-01,Mar,Q1,2021,Furniture,Furniture > Sofa,Sofa,West,Mumbai,Mumbai,Corporate,4440.64,8,0.1,576.59,146.82
+ORD0361,2023-12-11,Dec,Q4,2023,Sports,Sports > Cycle,Cycle,South,Hyderabad,Hyderabad,Corporate,47503.8,9,0.28,2687.4,139.11
+ORD0362,2022-05-25,May,Q2,2022,Groceries,Groceries > Sugar,Sugar,West,Mumbai,Mumbai,Home Office,6401.5,10,0.26,459.87,172.79
+ORD0363,2023-10-13,Oct,Q4,2023,Furniture,Furniture > Chair,Chair,West,Pune,Pune,Consumer,58220.82,6,0.02,6664.87,135.8
+ORD0364,2023-04-06,Apr,Q2,2023,Furniture,Furniture > Chair,Chair,West,Pune,Pune,Home Office,7770.48,8,0.2,900.25,196.52
+ORD0365,2021-02-06,Feb,Q1,2021,Electronics,Electronics > Headphones,Headphones,West,Mumbai,Mumbai,Home Office,915.12,9,0.04,203.17,131.43
+ORD0366,2022-09-16,Sep,Q3,2022,Sports,Sports > Cycle,Cycle,South,Hyderabad,Hyderabad,Home Office,76060.56,8,0.15,4285.27,60.13
+ORD0367,2023-07-20,Jul,Q3,2023,Clothing,Clothing > Shoes,Shoes,West,Ahmedabad,Ahmedabad,Home Office,43120.98,6,0.05,11379.89,59.91
+ORD0368,2022-12-01,Dec,Q4,2022,Clothing,Clothing > Dress,Dress,East,Patna,Patna,Consumer,8978.19,1,0.2,2130.0,153.65
+ORD0369,2023-04-19,Apr,Q2,2023,Electronics,Electronics > Tablet,Tablet,South,Chennai,Chennai,Consumer,15638.84,7,0.33,1122.97,80.83
+ORD0370,2023-04-29,Apr,Q2,2023,Electronics,Electronics > Smart Watch,Smart Watch,North,Chandigarh,Chandigarh,Corporate,95653.3,10,0.05,18142.19,115.47
+ORD0371,2021-04-10,Apr,Q2,2021,Sports,Sports > Dumbbells,Dumbbells,West,Ahmedabad,Ahmedabad,Consumer,18189.6,10,0.33,987.96,138.35
+ORD0372,2022-10-22,Oct,Q4,2022,Sports,Sports > Dumbbells,Dumbbells,West,Ahmedabad,Ahmedabad,Home Office,11233.32,4,0.39,2337.65,101.51
+ORD0373,2021-10-01,Oct,Q4,2021,Furniture,Furniture > Sofa,Sofa,East,Patna,Patna,Home Office,42881.04,6,0.37,6477.53,56.16
+ORD0374,2022-08-19,Aug,Q3,2022,Clothing,Clothing > Jeans,Jeans,South,Hyderabad,Hyderabad,Home Office,42790.68,6,0.3,6550.35,124.91
+ORD0375,2023-05-05,May,Q2,2023,Sports,Sports > Yoga Mat,Yoga Mat,West,Mumbai,Mumbai,Home Office,700.34,2,0.06,165.29,55.98
+ORD0376,2021-11-26,Nov,Q4,2021,Clothing,Clothing > Dress,Dress,South,Chennai,Chennai,Home Office,10597.0,5,0.22,1302.71,101.47
+ORD0377,2022-04-05,Apr,Q2,2022,Sports,Sports > Dumbbells,Dumbbells,South,Hyderabad,Hyderabad,Home Office,34796.85,5,0.02,5608.74,94.98
+ORD0378,2022-10-03,Oct,Q4,2022,Sports,Sports > Cricket Bat,Cricket Bat,North,Jaipur,Jaipur,Corporate,24971.76,4,0.31,5359.3,169.4
+ORD0379,2023-01-24,Jan,Q1,2023,Sports,Sports > Cycle,Cycle,South,Hyderabad,Hyderabad,Consumer,22714.1,5,0.39,1002.32,193.25
+ORD0380,2023-11-19,Nov,Q4,2023,Electronics,Electronics > Headphones,Headphones,North,Chandigarh,Chandigarh,Corporate,24441.39,9,0.06,6979.87,21.02
+ORD0381,2023-08-14,Aug,Q3,2023,Furniture,Furniture > Chair,Chair,South,Bangalore,Bangalore,Home Office,7758.47,1,0.25,1762.77,74.21
+ORD0382,2023-01-04,Jan,Q1,2023,Electronics,Electronics > Tablet,Tablet,South,Chennai,Chennai,Home Office,15766.34,2,0.06,3155.61,92.62
+ORD0383,2022-12-17,Dec,Q4,2022,Furniture,Furniture > Desk,Desk,East,Bhubaneswar,Bhubaneswar,Corporate,11311.95,5,0.3,1656.12,199.39
+ORD0384,2021-01-19,Jan,Q1,2021,Electronics,Electronics > Tablet,Tablet,West,Mumbai,Mumbai,Home Office,91932.9,10,0.1,5126.81,179.42
+ORD0385,2023-02-21,Feb,Q1,2023,Electronics,Electronics > Headphones,Headphones,East,Patna,Patna,Home Office,1722.8,5,0.21,382.65,112.58
+ORD0386,2023-11-08,Nov,Q4,2023,Groceries,Groceries > Flour,Flour,North,Chandigarh,Chandigarh,Home Office,13083.12,4,0.03,999.86,194.89
+ORD0387,2023-12-29,Dec,Q4,2023,Electronics,Electronics > Mobile Phone,Mobile Phone,South,Hyderabad,Hyderabad,Home Office,34648.6,4,0.17,2334.55,116.8
+ORD0388,2023-06-11,Jun,Q2,2023,Electronics,Electronics > Laptop,Laptop,North,Chandigarh,Chandigarh,Home Office,2850.24,6,0.03,285.87,65.34
+ORD0389,2021-05-25,May,Q2,2021,Sports,Sports > Football,Football,East,Bhubaneswar,Bhubaneswar,Corporate,50708.16,8,0.17,2317.66,141.19
+ORD0390,2021-01-13,Jan,Q1,2021,Sports,Sports > Cricket Bat,Cricket Bat,North,Jaipur,Jaipur,Consumer,55720.44,6,0.04,15302.22,74.24
+ORD0391,2021-06-27,Jun,Q2,2021,Clothing,Clothing > Jacket,Jacket,West,Pune,Pune,Home Office,4792.0,1,0.21,344.17,90.38
+ORD0392,2022-08-28,Aug,Q3,2022,Furniture,Furniture > Bookshelf,Bookshelf,East,Kolkata,Kolkata,Home Office,13495.14,9,0.02,2933.56,90.93
+ORD0393,2021-06-24,Jun,Q2,2021,Clothing,Clothing > Jeans,Jeans,East,Kolkata,Kolkata,Corporate,13591.44,9,0.07,2971.24,65.49
+ORD0394,2021-08-23,Aug,Q3,2021,Furniture,Furniture > Wardrobe,Wardrobe,North,Jaipur,Jaipur,Corporate,7416.54,9,0.27,677.88,55.54
+ORD0395,2023-09-25,Sep,Q3,2023,Clothing,Clothing > Dress,Dress,South,Hyderabad,Hyderabad,Home Office,4361.4,4,0.25,1046.85,77.2
+ORD0396,2023-07-12,Jul,Q3,2023,Clothing,Clothing > Shoes,Shoes,East,Patna,Patna,Home Office,17095.2,3,0.15,2105.53,97.1
+ORD0397,2021-01-10,Jan,Q1,2021,Clothing,Clothing > Jeans,Jeans,South,Hyderabad,Hyderabad,Home Office,19871.95,7,0.14,4338.68,79.68
+ORD0398,2023-09-10,Sep,Q3,2023,Groceries,Groceries > Flour,Flour,East,Bhubaneswar,Bhubaneswar,Corporate,10595.97,9,0.26,584.88,70.51
+ORD0399,2021-10-14,Oct,Q4,2021,Sports,Sports > Football,Football,East,Patna,Patna,Home Office,14601.56,2,0.36,2849.07,133.69
+ORD0400,2023-04-10,Apr,Q2,2023,Sports,Sports > Football,Football,North,Jaipur,Jaipur,Corporate,80546.13,9,0.22,15466.03,46.75
+ORD0401,2023-03-15,Mar,Q1,2023,Furniture,Furniture > Wardrobe,Wardrobe,East,Kolkata,Kolkata,Corporate,46373.13,9,0.16,7816.01,139.28
+ORD0402,2021-12-06,Dec,Q4,2021,Sports,Sports > Football,Football,West,Mumbai,Mumbai,Consumer,94913.0,10,0.26,23902.63,152.47
+ORD0403,2023-09-18,Sep,Q3,2023,Clothing,Clothing > T-Shirt,T-Shirt,South,Bangalore,Bangalore,Consumer,5433.74,2,0.09,1239.02,113.22
+ORD0404,2023-01-10,Jan,Q1,2023,Groceries,Groceries > Flour,Flour,West,Mumbai,Mumbai,Consumer,6730.92,6,0.39,985.69,69.23
+ORD0405,2022-06-24,Jun,Q2,2022,Sports,Sports > Cycle,Cycle,South,Bangalore,Bangalore,Home Office,26012.49,7,0.26,5787.11,113.0
+ORD0406,2023-02-10,Feb,Q1,2023,Furniture,Furniture > Wardrobe,Wardrobe,West,Pune,Pune,Corporate,63572.16,8,0.35,2147.88,178.77
+ORD0407,2023-06-20,Jun,Q2,2023,Furniture,Furniture > Desk,Desk,North,Jaipur,Jaipur,Home Office,10969.05,5,0.07,1618.6,149.11
+ORD0408,2021-08-31,Aug,Q3,2021,Furniture,Furniture > Sofa,Sofa,East,Patna,Patna,Consumer,54272.8,8,0.19,9989.57,136.51
+ORD0409,2023-04-22,Apr,Q2,2023,Electronics,Electronics > Laptop,Laptop,North,Delhi,Delhi,Home Office,16950.2,10,0.25,785.1,123.01
+ORD0410,2021-04-25,Apr,Q2,2021,Furniture,Furniture > Bookshelf,Bookshelf,South,Hyderabad,Hyderabad,Corporate,96945.4,10,0.26,22494.14,151.04
+ORD0411,2022-08-04,Aug,Q3,2022,Electronics,Electronics > Laptop,Laptop,West,Ahmedabad,Ahmedabad,Corporate,14307.52,8,0.33,2207.2,163.03
+ORD0412,2022-01-08,Jan,Q1,2022,Sports,Sports > Cycle,Cycle,East,Kolkata,Kolkata,Home Office,55382.16,6,0.24,2973.81,88.08
+ORD0413,2021-09-28,Sep,Q3,2021,Electronics,Electronics > Mobile Phone,Mobile Phone,South,Hyderabad,Hyderabad,Home Office,57971.62,7,0.24,4548.0,182.29
+ORD0414,2021-03-21,Mar,Q1,2021,Sports,Sports > Cycle,Cycle,North,Delhi,Delhi,Corporate,27086.25,3,0.22,1063.97,188.79
+ORD0415,2023-06-03,Jun,Q2,2023,Sports,Sports > Dumbbells,Dumbbells,East,Kolkata,Kolkata,Home Office,39116.16,9,0.38,4720.34,158.36
+ORD0416,2022-12-19,Dec,Q4,2022,Sports,Sports > Cycle,Cycle,North,Chandigarh,Chandigarh,Consumer,24116.1,5,0.09,6753.03,70.99
+ORD0417,2023-04-17,Apr,Q2,2023,Clothing,Clothing > Jeans,Jeans,North,Jaipur,Jaipur,Home Office,5821.49,1,0.05,288.46,137.82
+ORD0418,2022-10-09,Oct,Q4,2022,Groceries,Groceries > Sugar,Sugar,North,Delhi,Delhi,Corporate,26107.1,10,0.34,3051.01,85.82
+ORD0419,2022-07-19,Jul,Q3,2022,Groceries,Groceries > Oil,Oil,West,Ahmedabad,Ahmedabad,Home Office,14953.2,8,0.22,2275.88,197.93
+ORD0420,2022-12-07,Dec,Q4,2022,Groceries,Groceries > Oil,Oil,North,Jaipur,Jaipur,Consumer,62816.0,8,0.38,3118.93,111.5
+ORD0421,2022-11-25,Nov,Q4,2022,Sports,Sports > Cycle,Cycle,North,Delhi,Delhi,Corporate,8062.45,1,0.33,1034.46,128.04
+ORD0422,2021-06-30,Jun,Q2,2021,Electronics,Electronics > Tablet,Tablet,South,Bangalore,Bangalore,Consumer,4737.4,10,0.15,1390.59,130.51
+ORD0423,2023-12-04,Dec,Q4,2023,Clothing,Clothing > Shoes,Shoes,North,Delhi,Delhi,Home Office,35563.04,8,0.08,8083.48,164.7
+ORD0424,2022-08-09,Aug,Q3,2022,Furniture,Furniture > Chair,Chair,South,Hyderabad,Hyderabad,Consumer,3661.07,1,0.26,928.42,35.63
+ORD0425,2022-07-20,Jul,Q3,2022,Groceries,Groceries > Sugar,Sugar,West,Pune,Pune,Home Office,20900.52,4,0.29,1047.44,36.23
+ORD0426,2022-08-06,Aug,Q3,2022,Sports,Sports > Cycle,Cycle,East,Bhubaneswar,Bhubaneswar,Corporate,24409.56,4,0.08,7386.36,123.48
+ORD0427,2022-06-19,Jun,Q2,2022,Furniture,Furniture > Sofa,Sofa,North,Jaipur,Jaipur,Consumer,27115.2,9,0.38,4890.15,192.21
+ORD0428,2022-05-28,May,Q2,2022,Groceries,Groceries > Flour,Flour,West,Mumbai,Mumbai,Corporate,54776.88,8,0.36,10818.9,106.75
+ORD0429,2022-06-13,Jun,Q2,2022,Electronics,Electronics > Headphones,Headphones,South,Hyderabad,Hyderabad,Home Office,32083.2,4,0.16,4202.27,116.42
+ORD0430,2022-06-24,Jun,Q2,2022,Furniture,Furniture > Bookshelf,Bookshelf,North,Chandigarh,Chandigarh,Home Office,5115.66,6,0.37,621.91,83.64
+ORD0431,2022-07-06,Jul,Q3,2022,Furniture,Furniture > Desk,Desk,West,Ahmedabad,Ahmedabad,Consumer,29520.04,4,0.35,2149.7,56.5
+ORD0432,2022-05-27,May,Q2,2022,Sports,Sports > Yoga Mat,Yoga Mat,South,Chennai,Chennai,Consumer,13579.72,2,0.27,2321.16,157.56
+ORD0433,2021-03-28,Mar,Q1,2021,Groceries,Groceries > Sugar,Sugar,East,Bhubaneswar,Bhubaneswar,Home Office,24792.4,5,0.39,4912.1,70.45
+ORD0434,2022-03-31,Mar,Q1,2022,Sports,Sports > Football,Football,North,Jaipur,Jaipur,Corporate,75213.12,8,0.01,11480.89,174.87
+ORD0435,2021-12-24,Dec,Q4,2021,Groceries,Groceries > Rice,Rice,West,Pune,Pune,Home Office,217.01,1,0.08,44.78,78.58
+ORD0436,2022-06-16,Jun,Q2,2022,Furniture,Furniture > Wardrobe,Wardrobe,East,Kolkata,Kolkata,Corporate,76707.68,8,0.14,6938.19,96.31
+ORD0437,2023-05-09,May,Q2,2023,Clothing,Clothing > Dress,Dress,West,Pune,Pune,Corporate,17269.14,3,0.39,2694.68,166.55
+ORD0438,2022-07-07,Jul,Q3,2022,Furniture,Furniture > Wardrobe,Wardrobe,West,Pune,Pune,Consumer,24058.71,3,0.3,3231.74,21.75
+ORD0439,2023-05-14,May,Q2,2023,Groceries,Groceries > Oil,Oil,East,Bhubaneswar,Bhubaneswar,Corporate,28323.05,5,0.23,3697.03,144.3
+ORD0440,2021-05-03,May,Q2,2021,Furniture,Furniture > Bookshelf,Bookshelf,West,Ahmedabad,Ahmedabad,Consumer,59765.84,8,0.1,8503.65,120.35
+ORD0441,2022-06-12,Jun,Q2,2022,Clothing,Clothing > T-Shirt,T-Shirt,West,Mumbai,Mumbai,Corporate,20694.9,10,0.23,3899.94,51.42
+ORD0442,2022-08-06,Aug,Q3,2022,Clothing,Clothing > Dress,Dress,West,Ahmedabad,Ahmedabad,Corporate,7744.44,2,0.11,1650.86,46.07
+ORD0443,2021-12-10,Dec,Q4,2021,Clothing,Clothing > Jacket,Jacket,West,Mumbai,Mumbai,Consumer,10504.65,3,0.13,2247.33,147.88
+ORD0444,2023-03-21,Mar,Q1,2023,Clothing,Clothing > Jacket,Jacket,East,Patna,Patna,Home Office,86919.66,9,0.17,7587.01,24.16
+ORD0445,2022-04-26,Apr,Q2,2022,Clothing,Clothing > T-Shirt,T-Shirt,South,Chennai,Chennai,Corporate,2091.78,2,0.37,252.96,29.69
+ORD0446,2023-03-25,Mar,Q1,2023,Sports,Sports > Cricket Bat,Cricket Bat,North,Chandigarh,Chandigarh,Home Office,2803.8,3,0.37,294.91,61.28
+ORD0447,2022-08-05,Aug,Q3,2022,Groceries,Groceries > Oil,Oil,South,Hyderabad,Hyderabad,Consumer,448.0,1,0.14,125.05,175.56
+ORD0448,2023-08-15,Aug,Q3,2023,Sports,Sports > Yoga Mat,Yoga Mat,West,Mumbai,Mumbai,Home Office,16672.41,9,0.24,3032.36,134.45
+ORD0449,2023-06-10,Jun,Q2,2023,Sports,Sports > Cycle,Cycle,East,Bhubaneswar,Bhubaneswar,Corporate,21135.06,9,0.04,2888.44,94.2
+ORD0450,2021-11-15,Nov,Q4,2021,Clothing,Clothing > T-Shirt,T-Shirt,North,Jaipur,Jaipur,Consumer,17631.96,6,0.21,3570.5,108.55
+ORD0451,2023-09-05,Sep,Q3,2023,Clothing,Clothing > T-Shirt,T-Shirt,West,Pune,Pune,Home Office,31948.8,4,0.22,2655.76,178.79
+ORD0452,2023-06-15,Jun,Q2,2023,Groceries,Groceries > Oil,Oil,South,Hyderabad,Hyderabad,Home Office,58104.2,7,0.09,3900.2,132.56
+ORD0453,2023-11-25,Nov,Q4,2023,Sports,Sports > Yoga Mat,Yoga Mat,East,Patna,Patna,Home Office,72957.6,9,0.17,18532.47,52.83
+ORD0454,2022-08-17,Aug,Q3,2022,Electronics,Electronics > Headphones,Headphones,West,Pune,Pune,Home Office,49702.7,10,0.13,4135.81,194.55
+ORD0455,2021-02-15,Feb,Q1,2021,Furniture,Furniture > Chair,Chair,East,Bhubaneswar,Bhubaneswar,Consumer,58381.04,8,0.09,5057.94,108.84
+ORD0456,2022-12-02,Dec,Q4,2022,Groceries,Groceries > Sugar,Sugar,West,Pune,Pune,Corporate,3369.13,1,0.34,746.01,30.09
+ORD0457,2023-03-15,Mar,Q1,2023,Electronics,Electronics > Smart Watch,Smart Watch,West,Mumbai,Mumbai,Consumer,40949.8,5,0.33,2375.67,158.27
+ORD0458,2022-05-25,May,Q2,2022,Groceries,Groceries > Flour,Flour,South,Hyderabad,Hyderabad,Consumer,18647.2,4,0.31,2654.91,196.78
+ORD0459,2023-08-27,Aug,Q3,2023,Groceries,Groceries > Sugar,Sugar,East,Kolkata,Kolkata,Home Office,7472.03,1,0.22,504.97,106.62
+ORD0460,2022-09-04,Sep,Q3,2022,Furniture,Furniture > Bookshelf,Bookshelf,North,Jaipur,Jaipur,Consumer,4871.66,2,0.17,220.45,162.99
+ORD0461,2021-09-03,Sep,Q3,2021,Groceries,Groceries > Oil,Oil,North,Delhi,Delhi,Home Office,55316.32,8,0.06,14623.69,64.77
+ORD0462,2023-10-21,Oct,Q4,2023,Electronics,Electronics > Smart Watch,Smart Watch,East,Patna,Patna,Consumer,3619.27,1,0.06,717.53,39.33
+ORD0463,2023-09-27,Sep,Q3,2023,Furniture,Furniture > Bookshelf,Bookshelf,East,Bhubaneswar,Bhubaneswar,Home Office,1245.48,4,0.15,283.0,65.13
+ORD0464,2021-03-22,Mar,Q1,2021,Groceries,Groceries > Flour,Flour,East,Patna,Patna,Home Office,15828.72,8,0.07,2271.4,151.83
+ORD0465,2022-07-18,Jul,Q3,2022,Sports,Sports > Cycle,Cycle,South,Chennai,Chennai,Home Office,13645.35,3,0.33,1942.59,101.73
+ORD0466,2023-11-03,Nov,Q4,2023,Groceries,Groceries > Oil,Oil,North,Jaipur,Jaipur,Corporate,24637.5,10,0.29,4329.19,117.01
+ORD0467,2023-03-05,Mar,Q1,2023,Furniture,Furniture > Wardrobe,Wardrobe,West,Ahmedabad,Ahmedabad,Consumer,29026.9,10,0.16,3574.66,37.33
+ORD0468,2021-05-17,May,Q2,2021,Electronics,Electronics > Laptop,Laptop,South,Chennai,Chennai,Consumer,9809.36,2,0.04,2084.01,170.53
+ORD0469,2023-10-01,Oct,Q4,2023,Sports,Sports > Cycle,Cycle,East,Kolkata,Kolkata,Corporate,24393.32,4,0.03,7786.14,57.57
+ORD0470,2023-10-04,Oct,Q4,2023,Electronics,Electronics > Headphones,Headphones,North,Chandigarh,Chandigarh,Home Office,57660.68,7,0.32,2646.23,131.05
+ORD0471,2023-12-20,Dec,Q4,2023,Electronics,Electronics > Mobile Phone,Mobile Phone,East,Kolkata,Kolkata,Consumer,9552.42,9,0.29,1420.86,54.1
+ORD0472,2023-12-14,Dec,Q4,2023,Furniture,Furniture > Wardrobe,Wardrobe,South,Hyderabad,Hyderabad,Home Office,37889.19,9,0.04,8787.4,84.43
+ORD0473,2023-07-29,Jul,Q3,2023,Groceries,Groceries > Rice,Rice,South,Chennai,Chennai,Home Office,35671.65,7,0.26,5547.87,127.98
+ORD0474,2022-12-23,Dec,Q4,2022,Clothing,Clothing > Shoes,Shoes,East,Bhubaneswar,Bhubaneswar,Corporate,57946.77,7,0.13,6161.4,118.21
+ORD0475,2023-02-08,Feb,Q1,2023,Sports,Sports > Yoga Mat,Yoga Mat,East,Bhubaneswar,Bhubaneswar,Corporate,713.58,7,0.01,95.61,22.93
+ORD0476,2021-10-04,Oct,Q4,2021,Clothing,Clothing > T-Shirt,T-Shirt,East,Kolkata,Kolkata,Consumer,1888.92,6,0.33,325.15,69.67
+ORD0477,2023-11-14,Nov,Q4,2023,Sports,Sports > Cycle,Cycle,South,Chennai,Chennai,Consumer,28965.12,8,0.06,4359.75,124.79
+ORD0478,2022-04-23,Apr,Q2,2022,Clothing,Clothing > Dress,Dress,North,Jaipur,Jaipur,Corporate,91861.1,10,0.29,17418.95,162.72
+ORD0479,2021-12-21,Dec,Q4,2021,Groceries,Groceries > Spices,Spices,North,Jaipur,Jaipur,Home Office,2349.7,5,0.32,262.78,160.42
+ORD0480,2022-11-16,Nov,Q4,2022,Clothing,Clothing > Jacket,Jacket,West,Mumbai,Mumbai,Consumer,92927.4,10,0.25,16703.1,29.74
+ORD0481,2023-12-10,Dec,Q4,2023,Electronics,Electronics > Tablet,Tablet,South,Bangalore,Bangalore,Home Office,6466.0,4,0.27,1648.33,194.79
+ORD0482,2023-10-31,Oct,Q4,2023,Electronics,Electronics > Laptop,Laptop,West,Pune,Pune,Corporate,4225.62,3,0.03,907.62,28.88
+ORD0483,2023-03-29,Mar,Q1,2023,Clothing,Clothing > T-Shirt,T-Shirt,West,Ahmedabad,Ahmedabad,Corporate,22930.08,3,0.19,2032.53,91.16
+ORD0484,2022-02-06,Feb,Q1,2022,Sports,Sports > Cycle,Cycle,South,Chennai,Chennai,Consumer,38946.35,5,0.13,11088.03,36.13
+ORD0485,2023-04-28,Apr,Q2,2023,Groceries,Groceries > Sugar,Sugar,East,Kolkata,Kolkata,Corporate,35872.74,6,0.01,5023.3,197.78
+ORD0486,2023-06-25,Jun,Q2,2023,Sports,Sports > Football,Football,West,Mumbai,Mumbai,Consumer,27537.48,4,0.06,6951.38,35.45
+ORD0487,2021-04-22,Apr,Q2,2021,Furniture,Furniture > Wardrobe,Wardrobe,South,Bangalore,Bangalore,Consumer,41807.28,6,0.04,7425.71,24.09
+ORD0488,2022-03-05,Mar,Q1,2022,Sports,Sports > Football,Football,South,Hyderabad,Hyderabad,Home Office,27662.85,5,0.25,7213.59,145.11
+ORD0489,2021-02-07,Feb,Q1,2021,Groceries,Groceries > Spices,Spices,North,Chandigarh,Chandigarh,Consumer,2911.45,1,0.32,466.02,29.56
+ORD0490,2021-01-18,Jan,Q1,2021,Electronics,Electronics > Headphones,Headphones,East,Patna,Patna,Home Office,51933.18,6,0.01,15949.77,136.89
+ORD0491,2022-04-19,Apr,Q2,2022,Groceries,Groceries > Spices,Spices,North,Chandigarh,Chandigarh,Corporate,53619.2,10,0.07,9982.91,102.44
+ORD0492,2021-02-14,Feb,Q1,2021,Electronics,Electronics > Laptop,Laptop,East,Bhubaneswar,Bhubaneswar,Corporate,52281.04,7,0.01,13213.53,83.97
+ORD0493,2022-09-12,Sep,Q3,2022,Furniture,Furniture > Wardrobe,Wardrobe,East,Kolkata,Kolkata,Home Office,43990.15,5,0.36,8290.07,25.3
+ORD0494,2022-07-28,Jul,Q3,2022,Furniture,Furniture > Desk,Desk,East,Bhubaneswar,Bhubaneswar,Home Office,2907.24,3,0.15,835.7,130.24
+ORD0495,2022-04-11,Apr,Q2,2022,Groceries,Groceries > Oil,Oil,South,Bangalore,Bangalore,Corporate,33595.9,10,0.22,2935.65,44.94
+ORD0496,2022-02-19,Feb,Q1,2022,Furniture,Furniture > Bookshelf,Bookshelf,South,Bangalore,Bangalore,Consumer,91784.9,10,0.13,17344.21,190.75
+ORD0497,2021-08-31,Aug,Q3,2021,Furniture,Furniture > Bookshelf,Bookshelf,South,Hyderabad,Hyderabad,Consumer,52874.58,6,0.17,7608.74,99.74
+ORD0498,2022-07-15,Jul,Q3,2022,Furniture,Furniture > Desk,Desk,North,Delhi,Delhi,Consumer,7647.47,1,0.24,755.91,122.07
+ORD0499,2022-04-18,Apr,Q2,2022,Sports,Sports > Football,Football,South,Hyderabad,Hyderabad,Consumer,5320.38,6,0.31,331.23,172.3
+ORD0500,2023-08-19,Aug,Q3,2023,Clothing,Clothing > Jeans,Jeans,West,Pune,Pune,Corporate,5163.96,3,0.09,810.97,194.39
